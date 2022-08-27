@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhengcuhk&layout=compact)
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuzhengcuhk&label=Profile%20views&color=b46cff&style=plastic" alt="yuzhengcuhk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kyrie-Zhao&label=Profile%20views&color=b46cff&style=plastic" alt="Kyrie-Zhao" /> </p>
