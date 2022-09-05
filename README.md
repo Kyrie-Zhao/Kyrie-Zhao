@@ -9,3 +9,5 @@
 - 🌱 Funfact: StrongBob refers to ≈ Sponge Bob Square Pants
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kyrie-Zhao&label=Profile%20views&color=b46cff&style=plastic" alt="Kyrie-Zhao" /> </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyrie-Zhao)](https://github.com/anuraghazra/github-readme-stats)
