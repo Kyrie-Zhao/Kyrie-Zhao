@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhihe-kyrie-zhao-77003814b/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kyrie-zhao.github.io/)
-- 📫 My name：趙之赫 (Pronouns: Jaw Jee Ho), you can also call me Kyrie
+- 📫 My name：趙之赫 (Pronouns: Jee Ho), you can also call me Kyrie
 - ⚡ I am in relationship with ️[ScarlettFish](https://media-exp1.licdn.com/dms/image/C5603AQE8W8lkA6DdHg/profile-displayphoto-shrink_800_800/0/1637685463165?e=1666828800&v=beta&t=qrdVFKARcT3JLXerWLGDg0DnMsebptM3RLj6CCDah1w)
 - 💬 I’m a PhD student@CUHK. I am working on efficient DNN and AI compiler
 - 👯 Currently, I’m looking to collaborate on **multi-DNN inference on edge devices** and **compiling knowledge transfer across heterogeneous devices**.
