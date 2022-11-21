@@ -13,6 +13,6 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Kyrie-Zhao&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-
+<div align="left"><img src="https://raw.githubusercontent.com/Kyrie-Zhao/Kyrie-Zhao/output/github-contribution-grid-snake.svg">
 
 
