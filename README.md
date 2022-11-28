@@ -6,7 +6,7 @@
 - 📫 My name：趙之赫 (Pronouns: Jee Ho), you can also call me Kyrie
 - 💬 I’m a PhD student@CUHK. I am working on efficient DNN, system for AI and DNN compiler
 - 👯 Currently, I’m looking to collaborate on **multi-DNN inference on edge devices** and **compiling knowledge transfer across heterogeneous devices**.
-- 🔭 If you are interested, welcome to contact me via 1155170475@link.cuhk.edu.hk
+- 🔭 If you are interested, welcome to contact me zhaozhihe2333@gmail.com
 - 🌱 Funfact: StrongBob refers to ≈ Sponge Bob Square Pants
 - 💌 In relationship with Yuelin Yu
 
