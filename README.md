@@ -12,4 +12,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kyrie-Zhao&label=Profile%20views&color=b46cff&style=plastic" alt="Kyrie-Zhao" /> </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Kyrie-Zhao&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+[![Kyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyrie-Zhao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
