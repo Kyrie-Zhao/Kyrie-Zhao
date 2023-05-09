@@ -8,7 +8,6 @@
 - 👯 Currently, I’m looking to collaborate on **Compiling Knowledge Reuse across Heterogeneous Devices**, **Carbon-friendly DNN Compiler for Mobile/Edge** and **Quantum Computing for MLSys**.
 - 🔭 If you are interested, welcome to contact me zhaozhihe2333@gmail.com
 - 🌱 Funfact: StrongBob refers to ≈ Sponge Bob Square Pants
-- 💌 In relationship with Yuelin Yu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kyrie-Zhao&label=Profile%20views&color=b46cff&style=plastic" alt="Kyrie-Zhao" /> </p>
 
