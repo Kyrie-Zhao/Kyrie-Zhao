@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhihe-kyrie-zhao-77003814b/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kyrie-zhao.github.io/)
-- 📫 My name：趙之赫 (Pronouns: Jee Ho), you can also call me Kyrie
+- 📫 My name：趙之赫 (Pronouns: Jee Ho), you can also call me Bob
 - 💬 I’m a PhD student@CUHK. I am working on efficient DNN, system for AI and DNN compiler
 - 👯 Currently, I’m looking to collaborate on **Compiling Knowledge Reuse across Heterogeneous Devices**, **Carbon-friendly DNN Compiler for Mobile/Edge** and **Quantum Computing for MLSys**.
 - 🔭 If you are interested, welcome to contact me zhaozhihe2333@gmail.com
